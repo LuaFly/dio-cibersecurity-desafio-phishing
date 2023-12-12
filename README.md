@@ -11,7 +11,8 @@
 | Método de ataque                     | `Credential Harvester Attack Method` |
 | Método de ataque                     | `Site Cloner`                     |
 | URL para clone                       | `http://www.linkedin.com`         |
-<br> <br> 
+
+
 <b> : pencil2 :  Passo-a-Passo </b>
 
  1- Precisamos estar como root no kali 
