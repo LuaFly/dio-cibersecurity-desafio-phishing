@@ -1,15 +1,15 @@
 # dio-cibersecurity-desafio-phishing
 
-<p> 1- Precisamos estar como root no kali </p>
+ 1- Precisamos estar como root no kali 
 
-<img src="![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/2c1d2f87-2c39-4402-81da-4512e2c9ab88)"/>
+![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/2c1d2f87-2c39-4402-81da-4512e2c9ab88)
 
-<p>2- iniciamos o setoolkit
-<img src="![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/10f85203-70d6-4258-b251-917c5b8e579e)/>
-<img src="![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/9bbf8517-6a91-4631-99f3-5a1038266b91)/>
+2- iniciamos o setoolkit
+![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/10f85203-70d6-4258-b251-917c5b8e579e)
+![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/9bbf8517-6a91-4631-99f3-5a1038266b91)
 
-<p>3- Vamos escolher o numero 1, ataques de engenharia social</p>
-<p>![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/82745884-488b-4ed2-b2da-3591439db14a)</p>
+3- Vamos escolher o numero 1, ataques de engenharia social
+![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/82745884-488b-4ed2-b2da-3591439db14a)
 
 4- Depois o vetor de ataque, nesse caso o numero 2, website
 ![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/a626839a-1f4f-4f99-b448-9dfe65e78e80)
