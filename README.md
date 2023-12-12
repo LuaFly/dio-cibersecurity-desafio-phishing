@@ -1,5 +1,15 @@
 # dio-cibersecurity-desafio-phishing
 
+| Descrição                            | Comando                           |
+|--------------------------------------|-----------------------------------|
+| Acesso root                          | `sudo su`                         |
+| Iniciando o setoolkit                | `setoolkit`                       |
+| Tipo de ataque                       | `Social-Engineering Attacks`      |
+| Vetor de ataque                      | `Web Site Attack Vectors`         |
+| Método de ataque                     | `Credential Harvester Attack Method` |
+| Método de ataque                     | `Site Cloner`                     |
+| URL para clone                       | `http://www.linkedin.com`         |
+
 
  1- Precisamos estar como root no kali 
 <br>
