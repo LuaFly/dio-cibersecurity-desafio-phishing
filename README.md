@@ -15,7 +15,7 @@
 
 <br> 
 
-<b>: pencil2 :  Passo-a-Passo </b>
+<b> :pencil2:  Passo-a-Passo </b>
 
  1- Precisamos estar como root no kali 
 <br>
