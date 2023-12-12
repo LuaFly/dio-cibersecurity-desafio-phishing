@@ -1,6 +1,6 @@
 # dio-cibersecurity-desafio-phishing
-
-
+<html>
+<body>
 <style>
 	.tabela {
 		border:2px solid #C0C0C0;
@@ -71,6 +71,9 @@
 	</tr>
 	<tbody>
                         </table>
+
+</html>
+</body>
 
 
 1- Precisamos estar como root no kali
