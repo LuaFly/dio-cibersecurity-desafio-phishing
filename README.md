@@ -2,11 +2,11 @@
 
 <p> 1- Precisamos estar como root no kali </p>
 
-<p>![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/2c1d2f87-2c39-4402-81da-4512e2c9ab88) </p>
+<img src="![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/2c1d2f87-2c39-4402-81da-4512e2c9ab88)"/>
 
 <p>2- iniciamos o setoolkit
-<p>![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/10f85203-70d6-4258-b251-917c5b8e579e)</p>
-<p>![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/9bbf8517-6a91-4631-99f3-5a1038266b91)</p>
+<img src="![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/10f85203-70d6-4258-b251-917c5b8e579e)/>
+<img src="![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/9bbf8517-6a91-4631-99f3-5a1038266b91)/>
 
 <p>3- Vamos escolher o numero 1, ataques de engenharia social</p>
 <p>![image](https://github.com/LuaFly/dio-cibersecurity-desafio-phishing/assets/42554771/82745884-488b-4ed2-b2da-3591439db14a)</p>
